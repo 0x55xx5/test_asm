@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KEvin\\Source\\Repos\\Asmtester\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCAD8E7-3C93-4CCF-9748-65CBAC155802}|Asmtester.vcxproj|C:\\Users\\KEvin\\Source\\Repos\\Asmtester\\e001.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCCAD8E7-3C93-4CCF-9748-65CBAC155802}|Asmtester.vcxproj|solutionrelative:e001.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "e001.asm",
+              "DocumentMoniker": "C:\\Users\\KEvin\\Source\\Repos\\Asmtester\\e001.asm",
+              "RelativeDocumentMoniker": "e001.asm",
+              "ToolTip": "C:\\Users\\KEvin\\Source\\Repos\\Asmtester\\e001.asm",
+              "RelativeToolTip": "e001.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-28T12:28:34.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
